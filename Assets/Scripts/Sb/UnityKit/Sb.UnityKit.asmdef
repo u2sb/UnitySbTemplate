@@ -1,0 +1,29 @@
+{
+    "name": "Sb.UnityKit",
+    "rootNamespace": "",
+    "references": [
+        "UniTask",
+        "VYaml.Core",
+        "Ulid"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "jp.hadashikick.vyaml",
+            "expression": "",
+            "define": "SBKIT_VYAML_ENABLE"
+        },
+        {
+            "name": "com.cysharp.ulid",
+            "expression": "",
+            "define": "SBKIT_ULID_ENABLE"
+        }
+    ],
+    "noEngineReferences": false
+}

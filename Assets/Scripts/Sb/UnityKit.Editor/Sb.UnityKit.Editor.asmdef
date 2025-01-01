@@ -1,0 +1,19 @@
+{
+    "name": "Sb.UnityKit.Editor",
+    "rootNamespace": "",
+    "references": [
+        "UniTask",
+        "Sb.UnityKit"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
