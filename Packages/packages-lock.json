@@ -67,7 +67,7 @@
       "url": "https://package.openupm.com"
     },
     "com.cysharp.zlogger": {
-      "version": "2.5.9",
+      "version": "2.5.10",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
@@ -81,7 +81,7 @@
       "url": "https://package.openupm.com"
     },
     "com.tuyoogame.yooasset": {
-      "version": "2.2.8-preview",
+      "version": "2.2.9",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -299,7 +299,7 @@
       "dependencies": {}
     },
     "today.comes.saintsfield": {
-      "version": "3.13.1",
+      "version": "3.18.1",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
